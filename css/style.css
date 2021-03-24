@@ -90,6 +90,9 @@ body {
 
 .item1 {
   background-color: #7541c8;
+  background-image: url("../img/bg-pattern-quotation.svg");
+  background-position: 80% 0;
+  background-repeat: no-repeat;
   grid-area: item1;
   color: rgba(255, 255, 255, 0.5); }
   .item1 .testimonial__photo-box {
